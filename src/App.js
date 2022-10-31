@@ -9,7 +9,7 @@ function App() {
       <Provider store={store}>
         <Todo />
       </Provider>
-      {/* <Day1t2 /> */}
+
     </>
   );
 }
